@@ -1,0 +1,68 @@
+.one {
+  color: red;
+}
+
+.box {
+  width: 420px;
+  height: 240px;
+  background: rgb(235, 233, 233);
+  text-align: center;
+  padding: 10px;
+  border: 0.25px solid black;
+}
+
+.two{
+  width: 470px;
+  height: 210px;
+  background: rgb(235, 233, 233);
+  padding: 10px;
+  border: 0.25px solid black;
+}
+
+.two h4 {
+  text-align: center;
+}
+
+.square {
+  margin-top: 0;
+}
+
+.three {
+  width: 280px;
+  height: 260px;
+  background: rgb(235, 233, 233);
+  padding: 10px;
+  border: 0.25px solid black;
+}
+
+.three .special {
+  text-align: center;
+}
+
+.four {
+  width: 360px;
+  height: 440px;
+  background: rgb(235, 233, 233);
+  padding: 10px;
+  border: 0.25px solid black;
+}
+
+.fifth, .sixth{
+  margin-top: 0;
+}
+
+.seven {
+  width: 500px;
+  height: 320px;
+  background: rgb(235, 233, 233);
+  padding: 10px;
+  border: 0.25px solid black;
+}
+
+.eight {
+  width: 500px;
+  height: 210px;
+  background: rgb(235, 233, 233);
+  padding: 10px;
+  border: 0.25px solid black;
+}
